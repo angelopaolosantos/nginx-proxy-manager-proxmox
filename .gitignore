@@ -1,0 +1,5 @@
+.ssh/
+.terraform/
+ansible/
+.terraform.lock.hcl
+terraform.tfvars
