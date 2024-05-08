@@ -19,7 +19,7 @@ variable "gateway" {
     description = "network gateway"
 }
 
-variable "container_ips" {
+variable "container_ip" {
     type = string
     default = "192.168.254.158"
 }
